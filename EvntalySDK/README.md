@@ -1,17 +1,3 @@
-<p align="center">
-  <img src="https://evntaly.com/assets/images/app_cover.png" alt="Evntaly Cover" width="100%">
-</p>
-
-<h3 align="center">Evntaly</h3>
-
-<p align="center">
- An advanced event tracking and analytics platform designed to help developers capture, analyze, and react to user interactions efficiently.
-</p>
-<p align="center">
-  <a href="https://www.nuget.org/packages/EvntalySDK"><img src="https://img.shields.io/nuget/v/EvntalySDK" alt="NuGet Version"></a>
-  <a href="https://github.com/Evntaly/evntaly-csharp"><img src="https://img.shields.io/github/license/Evntaly/evntaly-csharp" alt="license"></a>
-</p>
-
 # evntaly-csharp
 
 **EvntalySDK** is a .NET client for interacting with the Evntaly event tracking platform. It provides methods to initialize tracking, log events, identify users, and check API usage limits.
