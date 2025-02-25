@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <PackageId>EvntalySDK</PackageId>
+    <Version>1.0.3</Version> 
+    <Authors>Alameer Ashraf Hassan</Authors>
+    <Company>Evntaly</Company>
+    <Description>Evntaly SDK for event tracking.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Evntaly/evntaly-csharp</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile> 
+  </PropertyGroup>
+
+    <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="" />
+  </ItemGroup>
+</Project>
