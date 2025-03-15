@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <PackageId>EvntalySDK</PackageId>
-    <Version>1.0.4</Version> 
+    <Version>1.0.5</Version> 
     <Authors>Alameer Ashraf Hassan</Authors>
     <Company>Evntaly</Company>
     <Description>Evntaly SDK for event tracking.</Description>

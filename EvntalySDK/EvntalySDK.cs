@@ -12,7 +12,7 @@ namespace Evntaly
         private readonly string _developerSecret;
         private readonly string _projectToken;
         private readonly HttpClient _httpClient;
-        private readonly string _baseUrl = "https://evntaly.com/prod";
+        private readonly string _baseUrl = "https://app.evntaly.com/prod";
 
         private bool _trackingEnabled = true;
 
